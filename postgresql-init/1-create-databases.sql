@@ -1,2 +1,2 @@
-CREATE DATABASE "dev-journey-weather";
-CREATE DATABASE "dev-journey-weather-audit";
+CREATE DATABASE "dev-jw";
+CREATE DATABASE "dev-jw-audit";
